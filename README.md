@@ -1,6 +1,6 @@
 ## Elsie Ashworth
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Scientific Publication](#Scientific Publication) | [Hobbies](#hobbies)
 
 For fourteen years I was a wildlife detective for the UK’s biggest wildlife conservation charity, using the latest technology to catch criminals killing Scotland’s rarest species. My role brought me adventure, responsibility and the satisfaction of leveraging technological developments to bring vulnerable species back from the brink, but upon reaching a level of expertise where I was no longer required to learn at the same rate, I felt I had taken it as far as I could go. In search of new adventures applying technology to real-world challenges, I came to Makers and became a software engineer.
 
@@ -11,6 +11,8 @@ For fourteen years I was a wildlife detective for the UK’s biggest wildlife co
 | [BestB4 (frontend)] (https://github.com/eashworth/bestB4-Front-End) | The BestB4 app connects people looking for cooking ingredients with people giving away spare food. | React, Redux and Cypress. |
 | [BestB4 (backend)] (https://github.com/eashworth/BestB4) | The BestB4 backend API gets recipe suggestions from the Spoonacular API, based on what ingredients users have posted in their local area, and displays a map using the Google API. | Mongodb, Express, Node.js and Jest. |
 | [Acebook] (https://github.com/etelish/acebook-Team-Meme) | Acebook is a Facebook clone with secure login using password encryption. Users can write posts, add likes and comments and share photo albums. | Rails, JQuery, Postgres, AWS S3, Bootstrap, Rspec, Capybara |
+
+For other projects, see my [Github](https://github.com/eashworth)
 
 ## Skills
 
