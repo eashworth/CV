@@ -1,6 +1,6 @@
 ## Elsie Ashworth
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Scientific Publication](#Scientific) | [Hobbies](#hobbies)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Scientific Publication](#Scientific-Publication) | [Hobbies](#hobbies)
 
 For fourteen years I was a wildlife detective for the UK’s biggest wildlife conservation charity, using the latest technology to catch criminals killing Scotland’s rarest species. My role brought me adventure, responsibility and the satisfaction of leveraging technological developments to bring vulnerable species back from the brink, but upon reaching a level of expertise where I was no longer required to learn at the same rate, I felt I had taken it as far as I could go. In search of new adventures applying technology to real-world challenges, I came to Makers and became a software engineer.
 
