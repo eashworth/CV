@@ -24,23 +24,6 @@ As a wildlife crime investigator, I became an expert in using the latest satelli
 
 As a crime investigator, I handled sensitive personal data identifying suspects and witnesses, including vulnerable whistle-blowers, and restricted data used in police investigations. A key part of this was advising on successive designs of input forms for an intelligence database, refining the use of compulsory fields, multiple-choice inputs and on-screen prompts to ensure that records were accurate and compliant with security protocols and data protection requirements. I advised the police on the design of a national standard for incident recording. My experience means I know what it takes to build a system that its users can trust.
 
-#### Leadership, communication and teaching others
-
-I am an empathetic, authoritative communicator with an ability to adapt my style to widely differing audiences, having:
-
-- represented a national wildlife charity at meetings with a government minster
-- sat on a scientific working group developing forensic techniques
-- trained Panamanian police in wildlife-tracking and navigation, in Spanish
-- briefed a police search team on chemical safety procedures before a dawn raid
-- explained to a chief inspector how his officers could progress an investigation
-- gained the trust of whistle-blowers reporting the criminal activities of their employer
-- presented scientific findings at a police conference
-- educated American schoolchildren in bird identification
-- supervised six new volunteers in practical nature reserve management tasks every week
-- welcomed the public to a nature reserve, making sure they understood how to stay safe
-- treated and reassured a colleague who accidentally stuck a Stanley knife in his thigh
-- performed stand-up comedy at Scotland’s most famous comedy clubs, and got laughs
-
 #### Determination, driven by curiosity
 
 When something piques my curiosity, I am driven to explore it and find a way forward. E.g., when my employer offered me a month’s sabbatical to work abroad, I qualified as a tree-climber, spent a year and a half teaching myself Russian, attended a conference with the vice-president of a Siberian national park and joined their expedition counting bears and climbing into eagle nests for a Russian TV documentary: https://www.youtube.com/watch?v=iJWTZRxjWoY
