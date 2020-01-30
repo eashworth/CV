@@ -26,7 +26,7 @@ As a crime investigator, I handled sensitive personal data identifying suspects 
 
 #### Determination, driven by curiosity
 
-When something piques my curiosity, I am driven to explore it and find a way forward. E.g., when my employer offered me a month’s sabbatical to work abroad, I qualified as a tree-climber, spent a year and a half teaching myself Russian, attended a conference with the vice-president of a Siberian national park and joined their expedition counting bears and climbing into eagle nests for a Russian TV documentary: https://www.youtube.com/watch?v=iJWTZRxjWoY
+When something piques my curiosity, I am driven to explore it and find a way forward. E.g., when my employer offered me a month’s sabbatical to work abroad, I qualified as a tree-climber, spent a year and a half teaching myself Russian, attended a conference with the vice-president of a Siberian national park and joined their expedition counting bears and climbing into eagle nests for a [Russian TV documentary](https://www.youtube.com/watch?v=iJWTZRxjWoY).
 
 ## Education
 
