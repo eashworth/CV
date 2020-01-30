@@ -8,7 +8,7 @@ For fourteen years I was a wildlife detective for the UK’s biggest wildlife co
 
 | Project | Description | Tech |
 |--- |--- |---
-| [BestB4 frontend](https://github.com/eashworth/bestB4-Front-End) | The BestB4 app connects people looking for cooking ingredients with people giving away spare food. See the video [here](https://www.youtube.com/watch?v=swMdISwc3yc&feature=youtu.be)  | React, Redux and Cypress. |
+| [BestB4 frontend](https://github.com/eashworth/bestB4-Front-End) | The BestB4 app connects people looking for cooking ingredients with people giving away spare food. See the video [here](https://www.youtube.com/watch?v=swMdISwc3yc&feature=youtu.be).  | React, Redux and Cypress. |
 | [BestB4 backend](https://github.com/eashworth/BestB4) | The BestB4 backend API gets recipe suggestions from the Spoonacular API, based on what ingredients users have posted in their local area, and displays a map using the Google API. | Mongodb, Express, Node.js and Jest. |
 | [Acebook](https://github.com/etelish/acebook-Team-Meme) | Acebook is a Facebook clone with secure login using password encryption. Users can write posts, add likes and comments and share photo albums. | Rails, JQuery, Postgres, AWS S3, Bootstrap, Rspec, Capybara |
 
